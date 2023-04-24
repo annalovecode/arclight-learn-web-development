@@ -56,5 +56,5 @@ Now you have learned the fundmental of HTML and CSS, please read through the bel
 ### Exercise 1: Create a simple website
 1. Fork website template project: [arclight-simple-website-template](https://github.com/animal-high-tech/arclight-simple-website-template)
 2. Implement this website design using HTML and CSS:
-[Website design](./assets/a-simple-website.pdf)
+[Website design](https://github.com/animal-high-tech/arclight-learn-web-development/raw/master/assets/a-simple-website.pdf)
 3. Commit and push your work to remote, ping your manager for review
