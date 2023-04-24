@@ -18,3 +18,7 @@ Our tutorials are organized into a series of week-long sessions. Each session in
 # Week 1: Version control
 Version control, also known as source control, is the practice of tracking and managing changes to software code.  
 > [Session document](./sessions/version-control.md)
+
+# Week 2: HTML and CSS
+HTML is the foundation of all web pages. It defines the structure of a page, while CSS defines its style. 
+> [Session document](./sessions/html-css.md)
