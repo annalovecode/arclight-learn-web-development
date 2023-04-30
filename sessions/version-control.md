@@ -60,7 +60,7 @@ Read and learn below Git operations:
 4. Add your name to the line below:
 > Make sure to make this change on your branch. Your name goes here: XXX
 5. Go back to the default branch, add your name to the line below:
-> Make sure to make this change on the default branch. Your name goes here: XXX
+> Make sure to make this change on the default branch. Your name goes here: Anna Zhao
 6. Go back to your branch, rebase default branch
 7. Push your branch to remote
 8. Push the default branch to remote
