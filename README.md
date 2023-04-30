@@ -22,3 +22,15 @@ Version control, also known as source control, is the practice of tracking and m
 # Week 2: HTML and CSS
 HTML is the foundation of all web pages. It defines the structure of a page, while CSS defines its style. 
 > [Session document](./sessions/html-css.md)
+
+# Week 3: Advanced CSS
+Some more advanced CSS concepts, but still very commonly used by frontend developers today.
+> [Session document](./sessions/advanced-css.md)
+
+# Week 4: Intro to Javascript
+
+# Week 5: Intro to TypeScript
+
+# Week 6: React
+
+# Week 7: Redux and Sass
