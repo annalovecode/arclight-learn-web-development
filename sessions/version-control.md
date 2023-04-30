@@ -58,7 +58,7 @@ Read and learn below Git operations:
 2. Branch off from the default branch, name it `your-name`. Example: `michael-jackson`
 3. Go to your branch
 4. Add your name to the line below:
-> Make sure to make this change on your branch. Your name goes here: XXX
+> Make sure to make this change on your branch. Your name goes here: Anna Zhao	
 5. Go back to the default branch, add your name to the line below:
 > Make sure to make this change on the default branch. Your name goes here: Anna Zhao
 6. Go back to your branch, rebase default branch
