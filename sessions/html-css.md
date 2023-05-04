@@ -53,6 +53,8 @@ Learn the most basic CSS rules:
 Now you have learned the fundmental of HTML and CSS, please read through the below case study of how these skills can be applied to building a simple website:
 - [How to create a website using HTML and CSS in 7 steps](https://codetheweb.blog/steps-to-creating-a-website)
 
+## Exercises
+
 ### Exercise 1: Create a simple website
 1. Fork website template project: [arclight-simple-website-template](https://github.com/animal-high-tech/arclight-simple-website-template)
 2. Implement this website design using HTML and CSS:
