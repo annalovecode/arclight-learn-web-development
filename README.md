@@ -27,7 +27,9 @@ HTML is the foundation of all web pages. It defines the structure of a page, whi
 Some more advanced CSS concepts, but still very commonly used by frontend developers today.
 > [Session document](./sessions/advanced-css.md)
 
-# Week 4: Intro to Javascript
+# Week 4: Intro to JavaScript
+JavaScript is the fundmental of our Frontend and Backend development workflows.
+> [Session document](./sessions/javascript.md)
 
 # Week 5: Intro to TypeScript
 
