@@ -32,6 +32,8 @@ JavaScript is the fundmental of our Frontend and Backend development workflows.
 > [Session document](./sessions/javascript.md)
 
 # Week 5: Intro to TypeScript
+TypeScript stands in an unusual relationship to JavaScript. TypeScript offers all of JavaScript’s features, and an additional layer on top of these: TypeScript’s type system.
+> [Session document](./sessions/typescript.md)
 
 # Week 6: React
 
