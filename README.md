@@ -36,5 +36,7 @@ TypeScript stands in an unusual relationship to JavaScript. TypeScript offers al
 > [Session document](./sessions/typescript.md)
 
 # Week 6: React
+React is a free and open-source front-end JavaScript library for building user interfaces based on components.
+> [Session document](./sessions/react.md)
 
 # Week 7: Redux and Sass
