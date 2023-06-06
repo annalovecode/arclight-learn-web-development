@@ -43,4 +43,6 @@ React is a free and open-source front-end JavaScript library for building user i
 In this section we explore more about React and look into some tools/libraries commonly used in Frontend development.
 > [Session document](./sessions/more-react.md)
 
-# Week 7: Redux and Sass
+# Week 8: Sass
+Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. Why learning Sass? It lets you use variables, mathematical operations, mixins, loops, functions, imports, and other interesting functionalities that make writing CSS much more powerful.
+> [Session document](./sessions/sass.md)
